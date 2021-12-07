@@ -1,0 +1,145 @@
+body{
+    background-color: white;
+}
+header{
+    border-style: ridge;
+    border-width: 2px; 
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 0ch;   
+}
+.icon{
+    text-align: right;
+    margin-bottom: -40px;
+    padding-bottom: -40px;
+    ;
+}
+
+#lines a{
+    text-decoration: none;
+    padding-right: 25px;
+    font-size: 15px;
+    color: black;
+}
+#lines{
+    margin-left: 200px;
+}
+h1{
+    padding-left: 150px;
+}
+h2{
+    font-size: 16px;
+    text-align: center;
+}
+h2 a{
+    color: black;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    padding-left: 280px;
+    padding-right: 280px;
+
+}
+h4{
+    padding-left: 380px;
+    margin-top: -40px;
+    font-size: 20px;
+}
+h5{
+    padding-left: 380px;
+
+}
+.profile{
+    padding-left: 326px;
+    margin-top: -70px;
+}
+.touch{
+    padding-left: 850px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+main{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.ball{
+    text-align: center;
+    text-size-adjust: ;    
+}
+.note{
+    margin-left: -150px;
+    font-size: 20px;
+}
+.note h1{  
+    margin-left: 133px;
+    font-size: 20px;
+}
+.note h2{
+    margin-left: 133px;
+    font-size: 20px;
+}
+.note h3{
+    font-size: 20px;
+}
+img#displayimg{
+    width: auto;
+    height: 100%;
+}
+@media screen and (max-width: 700px)
+{
+   nav h1 a{
+        font-size: 8px;
+    }
+    h1{
+        padding-left: 60px;
+    }
+    h2{
+        font-size: 9px;
+    }
+    h3{
+        font-size: 15px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    h4{
+        padding-left: 100px;
+        margin-top: auto;
+        font-size: 14px;
+    }
+    h5{
+        padding-left: 150px;
+        font-size: 14px;
+    }
+    .profile{
+        padding-left: 100px;
+
+    }
+    .touch{
+        padding-left: 320px;
+        align
+    }
+    .ball{
+        text-size-adjust: 20%;
+    }
+    p{
+        font-size: 10px;
+    }
+    .note h1{
+        font-size: 12px;
+    }
+    .note h2{
+        font-size: 12px;
+    }
+    .note h3{
+        font-size: 12px;
+    }
+    img#displayimg{
+        height: auto;
+        width: 400px;
+    }
+}
+@media screen and (min-width: 700px)(max-width: 1070px);
+{
+    
+}
